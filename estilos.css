@@ -27,7 +27,7 @@ a {
 }
 
 header {
-  background: linear-gradient(rgba(0,0,0,.0),
+  background: linear-gradient(rgba(95,80,200,.1),
               rgba(72,201,176,.4)),
               url(imagenes/fondo.jpg);
   height: 100vh;
@@ -62,7 +62,7 @@ h3 {
 }
 
 p.logo {
-  color: #000;
+  color: #fff;
   font-size: 20px;
   line-height: 31px;
   margin-left: 17px;
